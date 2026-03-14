@@ -1,7 +1,17 @@
 {
   "hwids": [
-    "1379326927613d97",
-    "6ac895e50ca01f10"
+    {
+      "hwid": "1379326927613d97",
+      "expiration": "never"
+    },
+    {
+      "hwid": "6ac895e50ca01f10",
+      "expiration": "never"
+    },
+    {
+      "hwid": "example",
+      "expiration": "dd-mm-yyyy"
+    }
   ]
 }
 
